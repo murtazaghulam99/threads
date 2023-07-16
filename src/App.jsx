@@ -147,6 +147,7 @@ const App = () => {
           </div>
         </div>
       )}
+      <div className="mark"><p>Build with ❤ by Murtaza Munir</p></div>
     </>
   );
 };

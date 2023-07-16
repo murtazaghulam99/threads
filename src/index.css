@@ -130,6 +130,10 @@ button.primary {
   overflow-y: auto;
 }
 
+.feed::-webkit-scrollbar {
+  display: none;
+}
+
 input {
   background-color: transparent;
   border: solid 1px rgb(114, 114, 114);
@@ -154,12 +158,16 @@ input:focus {
   border-radius: 40px;
   background-color: rgb(38, 38, 38);
   padding: 20px;
-  overflow-y: scroll;
+  overflow-y: auto;
   box-shadow: rgba(0, 0, 0, 0.25) 0 54px 55px,
   rgba(0, 0, 0, 0.12) 0 -12px 30px,
   rgba(0, 0, 0, 0.12) 0 4px 6px
   rgba(0, 0, 0, 0.17) 0 12px 13px,
   rgba(0, 0, 0, 0.09) 0 -3px 5px;
+}
+
+.popup::-webkit-scrollbar {
+  display: none;
 }
 
 .write-icon {
@@ -183,4 +191,10 @@ input:focus {
   align-items: center;
   cursor: pointer;
   margin-bottom: 2em;
+}
+
+.mark {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
 }
