@@ -1,0 +1,269 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user-uuid": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "username": "Code With Murtaza",
+      "handle": "@murtazamunir",
+      "bio": "I build accessible web apps that users love.",
+      "link": "https://murtazadev.vercel.app/",
+      "img": "https://i.imgur.com/3nbKH1t.png",
+      "instagram_url": "https://www.instagram.com/its_murtazaarbi/",
+      "followers": [
+        {
+          "user_uuid": "ffbeda6f-7949-4b6f-bd84-c6f2611d8a46"
+        },
+        {
+          "user_uuid": "8ba1f3a8-060a-4eff-a45f-b59fe6b898b0"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user-uuid": "8ba1f3a8-060a-4eff-a45f-b59fe6b898b0",
+      "username": "Ani Talli",
+      "handle": "Just a person trying to do their best!",
+      "bio": "If burge",
+      "link": "",
+      "img": "[img]https://i.imgur.com/jONHmE5.png",
+      "instagram_url": "https://www.instagram.com/anitalli/",
+      "followers": [
+        {
+          "user_uuid": "0698120a-580d-49d5-81db-b92aa22b2386"
+        }
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": 1,
+      "timestamp": "Fri Jul 14 2023 20:34:05 GMT+0500 (Pakistan Standard Time)",
+      "thread_from": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Hello world (of threads)",
+      "likes": [
+        {
+          "user_uuid": "8ba1f3a8-060a-4eff-a45f-b59fe6b898b0"
+        },
+        {
+          "user_uuid": "ffbeda6f-7949-4b6f-bd84-c6f2611d8a46"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 2,
+      "timestamp": "Fri Jul 14 2023 22:10:05 GMT+0500 (Pakistan Standard Time)",
+      "thread_from": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Another one",
+      "likes": [
+        {
+          "user_uuid": "0698120a-580d-49d5-81db-b92aa22b2386"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 3,
+      "timestamp": "Fri Jul 14 2023 22:23:05 GMT+0500 (Pakistan Standard Time)",
+      "thread_from": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Excited to have launched Bobbys burgers",
+      "likes": [
+        {
+          "user_uuid": "0698120a-580d-49d5-81db-b92aa22b2386"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 4,
+      "timestamp": "Fri Jul 14 2023 22:25:05 GMT+0500 (Pakistan Standard Time)",
+      "thread_from": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "thread_to": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "reply_to": 3,
+      "text": "Congrats!",
+      "likes": [
+        {
+          "user_uuid": "0698120a-580d-49d5-81db-b92aa22b2386"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 5,
+      "timestamp": "Fri Jul 14 2023 23:25:05 GMT+0500 (Pakistan Standard Time)",
+      "thread_from": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "thread_to": "0698120a-580d-49d5-81db-b92aa22b2386",
+      "reply_to": 0,
+      "text": "Heya!",
+      "likes": [
+        {}
+      ]
+    },
+    {
+      "timestamp": "2023-07-16T06:36:28.939Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Good one!",
+      "like": [],
+      "id": 6
+    },
+    {
+      "timestamp": "2023-07-16T06:36:29.331Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 7
+    },
+    {
+      "timestamp": "2023-07-16T06:36:29.539Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 8
+    },
+    {
+      "timestamp": "2023-07-16T06:36:29.714Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 9
+    },
+    {
+      "timestamp": "2023-07-16T06:36:29.915Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 10
+    },
+    {
+      "timestamp": "2023-07-16T06:36:30.115Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 11
+    },
+    {
+      "timestamp": "2023-07-16T06:39:09.282Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 12
+    },
+    {
+      "timestamp": "2023-07-16T06:39:39.226Z",
+      "thread_to": null,
+      "reply_to": 1,
+      "text": "Hey?",
+      "like": [],
+      "id": 13
+    },
+    {
+      "timestamp": "2023-07-16T06:40:15.267Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Hey people!",
+      "like": [],
+      "id": 14
+    },
+    {
+      "timestamp": "2023-07-16T06:40:15.563Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 15
+    },
+    {
+      "timestamp": "2023-07-16T06:40:15.763Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 16
+    },
+    {
+      "timestamp": "2023-07-16T06:40:16.491Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 17
+    },
+    {
+      "timestamp": "2023-07-16T06:40:16.699Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 18
+    },
+    {
+      "timestamp": "2023-07-16T06:40:17.115Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 19
+    },
+    {
+      "timestamp": "2023-07-16T06:40:17.675Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 20
+    },
+    {
+      "timestamp": "2023-07-16T06:40:18.835Z",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "",
+      "like": [],
+      "id": 21
+    },
+    {
+      "timestamp": "2023-07-16T06:40:46.171Z",
+      "thread_to": null,
+      "reply_to": 4,
+      "text": "Hey",
+      "like": [],
+      "id": 22
+    },
+    {
+      "timestamp": "2023-07-16T06:52:47.891Z",
+      "thread_to": null,
+      "reply_to": 2,
+      "text": "Good for you!",
+      "likes": [],
+      "id": 23
+    },
+    {
+      "timestamp": "2023-07-16T06:53:02.515Z",
+      "thread_to": null,
+      "reply_to": 3,
+      "text": "",
+      "likes": [],
+      "id": 24
+    },
+    {
+      "timestamp": "2023-07-16T06:53:06.403Z",
+      "thread_to": null,
+      "reply_to": 3,
+      "text": "",
+      "likes": [],
+      "id": 25
+    }
+  ]
+}
