@@ -200,7 +200,7 @@ input:focus {
   margin-top: 1.5rem;
 } */
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
   .app {
     max-width: 90%;
     border-radius: 20px;
@@ -213,4 +213,4 @@ input:focus {
     padding: 10px;
   }
 
-}
+} */
